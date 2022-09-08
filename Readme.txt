@@ -1,2 +1,2 @@
 Website for NMMUN 
--By Shashank Shukla and Mudit Pandey
+-By Shashank Shukla, Mudit Pandey and Juan Keny.
