@@ -46,6 +46,10 @@ h6 {
   color: #0e1b4d;
 }
 
+.btn-container {
+  width: 150px;
+}
+
 .main-page {
   margin-top: 70px;
 }
@@ -1258,6 +1262,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #f82249;
   border: 0;
   color: #fff;
+  display: block;
 }
 
 #register .card .btn:hover {
@@ -1277,7 +1282,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #f82249;
   border: 0;
   color: #fff;
-  margin: 30px;
+  display: block;
 }
 
 #register #buy-ticket-modal .btn:hover {
