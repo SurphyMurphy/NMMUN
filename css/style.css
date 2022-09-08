@@ -1277,6 +1277,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #f82249;
   border: 0;
   color: #fff;
+  margin: 30px;
 }
 
 #register #buy-ticket-modal .btn:hover {
