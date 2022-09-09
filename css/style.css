@@ -9,10 +9,22 @@
 # General
 --------------------------------------------------------------*/
 
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 body {
   background: #fff;
   color: #2f3138;
   font-family: "Open Sans", sans-serif;
+}
+
+div-image{
+  background-image: url(../img/about-bg.jpg);
+  height: 400px;
+  width: 100%;
 }
 
 a {
@@ -1262,11 +1274,23 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-color: #99cccd;
   border: 0;
   color: #fff;
-  display: block;
+  
+}
+
+#register .card .btn-disabled{
+  font-size: 15px;
+  border-radius: 50px;
+  padding: 10px 40px;
+  transition: all 0.2s;
+  background-color: #cccccc;
+  border: 0;
+  color: #fff;
+  pointer-events: none;
+  
 }
 
 #register .card .btn:hover {
-  background-color: #e0072f;
+  background-color: #003399;
 }
 
 #register #buy-ticket-modal input,
@@ -1286,7 +1310,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #register #buy-ticket-modal .btn:hover {
-  background-color: #e0072f;
+  background-color: #003399;
 }
 
 /*--------------------------------------------------------------
