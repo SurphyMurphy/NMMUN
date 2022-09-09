@@ -677,6 +677,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   color: #fff;
   padding: 60px 0 40px 0;
+  margin-bottom: 20px;
 }
 
 #about:before {
