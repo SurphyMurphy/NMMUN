@@ -20,7 +20,7 @@
   height: 200px;
   cursor: pointer;
   /* FILL, CONTAIN, COVER, SCALE-DOWN : USE WHICHEVER YOU LIKE */
-  object-fit: fill;
+  object-fit: cover;
 }
 .gallery img:fullscreen { object-fit: contain; }
 
