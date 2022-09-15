@@ -10,7 +10,7 @@
 /* (A2) ON SMALL SCREENS */
 @media screen and (max-width: 640px) {
   .gallery {
-    grid-template-columns: repeat(2, auto); /* 2 IMAGES PER ROW */
+    grid-template-columns: repeat(1, auto); /* 2 IMAGES PER ROW */
   }
 }
 
