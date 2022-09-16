@@ -30,13 +30,7 @@
   <!-- (A) CSS & JS -->
   <link href="../gallery-dir/gallery.css" rel="stylesheet">
   <script src="../gallery-dir/gallery.js"></script>
-  
-  <!-- =======================================================
-    Theme Name: TheEvent
-    Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
+
 </head>
 
 <body>
@@ -56,12 +50,12 @@
       <nav id="nav-menu-container">
         <ul class="nav-menu">
           <li class="menu-active"><a href="../index.html#intro">Home</a></li>
-          <li><a href="../index.html#councils">Councils</a></li>
-          <li><a href="../index.html#schedule">Schedule</a></li>
+          <!--<li><a href="../index.html#councils">Councils</a></li>
+          <li><a href="../index.html#schedule">Schedule</a></li>-->
           <li><a href="../index.html#venue">Venue</a></li>
-          <li><a href="../index.html#theteam">The Team</a></li>
+          <!--<li><a href="../index.html#theteam">The Team</a></li>-->
           <li><a href="../gallery.php">Gallery</a></li>
-          <li><a href="../index.html#supporters">Sponsors</a></li>
+          <!--<li><a href="../index.html#supporters">Sponsors</a></li>-->
           <li><a href="../index.html#faq">F.A.Q</a></li>
           <li><a href="../index.html#contact">Contact</a></li>
           <li class="buy-tickets"><a href="../index.html#register">Register</a></li>
