@@ -49,16 +49,16 @@
 
       <nav id="nav-menu-container">
         <ul class="nav-menu">
-          <li class="menu-active"><a href="../index.html#intro">Home</a></li>
+          <li class="menu-active"><a href="../~nmmun851/index.html#intro">Home</a></li>
           <!--<li><a href="../index.html#councils">Councils</a></li>
           <li><a href="../index.html#schedule">Schedule</a></li>-->
-          <li><a href="../index.html#venue">Venue</a></li>
+          <li><a href="../~nmmun851/index.html#venue">Venue</a></li>
           <!--<li><a href="../index.html#theteam">The Team</a></li>-->
-          <li><a href="../gallery.php">Gallery</a></li>
+          <li><a href="../~nmmun851/gallery.php">Gallery</a></li>
           <!--<li><a href="../index.html#supporters">Sponsors</a></li>-->
-          <li><a href="../index.html#faq">F.A.Q</a></li>
-          <li><a href="../index.html#contact">Contact</a></li>
-          <li class="buy-tickets"><a href="../index.html#register">Register</a></li>
+          <li><a href="../~nmmun851/index.html#faq">F.A.Q</a></li>
+          <li><a href="../~nmmun851/index.html#contact">Contact</a></li>
+          <li class="buy-tickets"><a href="../~nmmun851/index.html#register">Register</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
