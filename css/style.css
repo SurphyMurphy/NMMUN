@@ -1726,7 +1726,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (max-width: 767px){
   .img-size{
     width: auto;
-    height: auto;
     object-fit: scale-down;
   }
 }
