@@ -1597,6 +1597,52 @@ body.mobile-nav-active #mobile-nav-toggle {
   object-fit: cover;
 }
 
+/*Meet the team cards*/
+.wrapper{
+  background: #fff;
+  width: auto;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.4);
+}
+.t2{
+  text-align: center;
+}
+.tr{
+  width: 100px;
+  margin: 10px auto;
+}
+.members{
+  display: flex;
+  align-items: center;
+}
+.team-mem{
+  margin: 8px;
+}
+.timg{
+  width: 225px;
+  height: 225px;
+  border-radius: 50%;
+  margin: 10px;
+}
+.t4{
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  margin: 0 0 20px 0;
+  padding: 0;
+  color: #0e1b4d;
+  text-align: center;
+  font-size: 12px;
+  margin: 7px;
+}
+.t{
+  text-align: center;
+  font-size: 12px;
+  margin: 7px;
+}
+
+
+
 /*--------------------------------------------------------------
 # Responsive Media Queries
 --------------------------------------------------------------*/
