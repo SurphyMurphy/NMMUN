@@ -150,6 +150,14 @@ h6 {
   margin-bottom: 10px;
 }
 
+.section-header h5 {
+  color: #112363;
+  font-size: 38px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
 .section-header p {
   text-align: center;
   padding: 0;
@@ -733,7 +741,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #speakers .speaker .details {
-  background: rgba(6, 12, 34, 0.76);
   position: absolute;
   left: 0;
   bottom: -30px;
@@ -748,6 +755,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
+  text-align: left; 
 }
 
 #speakers .speaker .details p {
@@ -755,6 +763,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
   margin-bottom: 10px;
   font-style: italic;
+  text-align: left;
 }
 
 #speakers .speaker .details .social {
@@ -782,6 +791,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 28px;
   font-weight: 700;
   margin-bottom: 10px;
+  text-align: left;
 }
 
 #speakers-details .details .social {
@@ -814,6 +824,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 15px;
   margin-bottom: 10px;
 }
+
+
 
 /*--------------------------------------------------------------
 # Schedule Section
@@ -1615,9 +1627,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 .members{
   display: flex;
   align-items: center;
+  position: relative;
 }
 .team-mem{
   margin: 8px;
+  position: relative;
 }
 .timg{
   width: 225px;
@@ -1777,6 +1791,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 767px){
   .img-size{
+    width: auto;
+    object-fit: scale-down;
+  }
+}
+
+@media (max-width: 767px){
+  .members{
     width: auto;
     object-fit: scale-down;
   }
