@@ -51,7 +51,7 @@
         <ul class="nav-menu">
           <li class="menu-active"><a href="../~nmmun851/index.html#intro">Home</a></li>
           <li><a href="../index.html#councils">Councils</a></li>
-          <!--<li><a href="../index.html#schedule">Schedule</a></li>-->
+          <li><a href="../index.html#schedule">Schedule</a></li>
           <li><a href="../index.html#venue">Venue</a></li>
           <li><a href="../index.html#theteam">The Team</a></li>
           <li><a href="../gallery.php">Gallery</a></li>
