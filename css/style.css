@@ -1630,6 +1630,60 @@ body.mobile-nav-active #mobile-nav-toggle {
   object-fit: cover;
 }
 
+/*Chair Cards*/
+.chair-wrapper{
+  background: #fff;
+  width: auto;
+  height: auto;
+  border-radius: 15px;
+  padding: 20px;
+  box-shadow: 7px 7px 15px rgba(0, 0, 0, 0.4);
+  margin-bottom: 35px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+
+.chair-mem{
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.chair{
+  margin: 8px;
+  position: relative;
+  display: flex;
+}
+
+@media screen and (max-width: 768px){
+  .chair{
+    flex-direction: column;
+  }
+}
+
+.chair-bio{
+  display: inline-block;
+  margin-left: 15px;
+  margin-left: 15px;
+}
+
+.chair-bio h4{
+  font-size: 38px;
+}
+
+.chair-bio p{
+  font-size: 18px;
+  text-align: left;
+}
+
+.chair img {
+  width: 400px;
+  height: 500px;
+  margin: 10px;
+  object-fit: cover;
+}
+
 /*Meet the team cards*/
 .wrapper{
   background: #fff;
