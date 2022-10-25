@@ -1682,6 +1682,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   height: 500px;
   margin: 10px;
   object-fit: cover;
+  text-align: center;
 }
 
 /*Meet the team cards*/
